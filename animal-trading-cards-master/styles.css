@@ -1,0 +1,45 @@
+body {
+  border: 0.5px solid lightgray;
+  box-shadow: 4px 4px 4px #aaa;
+  padding: 10px;
+  margin: 25px;
+ width: 320px;
+ text-align: left;
+ font-size: 10pt;
+ font-family: Times New Roman;
+}
+
+h3{
+font-size: 20pt;
+}
+
+img{
+  height: 200px;
+  width: 300px;
+  margin: 5px;
+}
+
+.fact {
+font-style: italic;
+
+}
+
+.border2 {
+  border: 0.5px solid lightgray;
+  width: 300px;
+  margin: 0.5px;
+padding: 5px;
+
+}
+
+.label {
+  font-weight: bold;
+  font-variant-caps:small-caps;
+
+}
+
+ul{
+margin: 0;
+padding: 0.5px;
+list-style-type: none;
+}

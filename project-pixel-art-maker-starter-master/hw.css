@@ -1,0 +1,34 @@
+body {
+  background-color: lightblue;
+
+}
+#div1 {
+  background-color: lightblue;
+  text-align: center;
+  border: 0.5px solid lightgray;
+}
+h1 {   display: inline-block;   padding-left: 300px; }
+
+ul {
+   display: inline-block; 
+float: left;
+list-style-type: none;
+}
+
+li {   display: inline;
+padding: 10px; } 
+
+#div2 {
+
+  padding: 50px;
+float:left ;
+}
+
+#div3{
+
+  padding: 50px;
+float: right;
+}
+#button1 {
+  float: right;
+}
